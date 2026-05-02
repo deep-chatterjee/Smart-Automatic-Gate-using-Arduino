@@ -57,11 +57,11 @@ The **Smart Automatic Gate** is a proximity-triggered gate controller built on a
 
 **Breadboard View:**
 
-![Breadboard Diagram](images/Smart_Automatic_Gate_Circuit.png)
+![Breadboard Diagram](Smart_Automatic_Gate_Circuit.png)
 
 **Schematic View:**
 
-![Schematic Diagram](images/Smart_Automatic_Gate_Schematic.png)
+![Schematic Diagram](Smart_Automatic_Gate_Schematic.png)
 
 ---
 
